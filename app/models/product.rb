@@ -15,3 +15,5 @@ class Product < ApplicationRecord
     ["name", "price", "released_on"]
   end
 end
+
+
